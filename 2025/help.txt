@@ -1,0 +1,4 @@
+make sure you have make and the build-essentials installed.
+If you want to use the curl-downloader paste your session id (firefox: f12 > Storage > Cookies) into the cookieFile.txt
+Alternatively, you can also manually place the file in ./_inputs and name it e.g. day1.txt.
+Then simply type "make day1" to compile and run day1
